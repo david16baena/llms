@@ -1,2 +1,5 @@
 # llms
-just cheking what can be done with llms
+
+Just cheking what can be done with llms.
+
+I will use hugginchat and chainlang.
